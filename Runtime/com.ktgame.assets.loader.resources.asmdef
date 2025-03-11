@@ -1,0 +1,17 @@
+{
+    "name": "com.ktgame.assets.loader.resources",
+    "rootNamespace": "com.ktgame.assets.loader.resources",
+    "references": [
+        "GUID:caeb0a032b91c4db0a3ec4b762381f71",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
