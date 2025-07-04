@@ -10,6 +10,9 @@
     "url": "https://github.com/KhanhTQ-hub"
   },
   "dependencies": {
-    "com.ktgame.unitask": "1.0.1"
+    "com.ktgame.unitask": "1.0.3"
+  },
+  "publishConfig": {
+    "registry": "http://3.25.208.95:4873"
   }
 }
